@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 - 2015 Alexander01998 and contributors
+ * Copyright Â© 2014 - 2015 Alexander01998 and contributors
  * All rights reserved.
  * 
  * This Source Code Form is subject to the terms of the Mozilla Public
@@ -13,5 +13,5 @@ package tk.wurst_client.mods;
 	name = "AntiCactus")
 public class AntiCactusMod extends Mod
 {
-	
+	test
 }
